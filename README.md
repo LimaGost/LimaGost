@@ -8,12 +8,55 @@ iury@microvix ~ % ./profile.sh --live
 
 <table>
 <tr>
-<td width="600" valign="top">
+<td width="640" valign="top">
 
 ### `SYSTEM.INFO`
 
 ```yaml
-ubject: Iury Santos Lima · Lima Role: Systems Analyst · Full-Stack Developer Origin: Aparecida de Goiânia, GO · Brasil Education: ADS · Estácio · 2023–2026 Status: Building · Integrating · Evolving ToolChain: Editor: VS Code Versioning: Git · GitHub Frontend: React · Vite · TypeScript Backend: Node.js · Express Database: PostgreSQL · Supabase Cloud: VPS · Hostinger · Netlify Automation: APIs · Webhooks · OAuth 2.0 Core.Domain: ERP: Linx Microvix · Retail Systems · Integrations Fiscal: NF-e · NFC-e · CFOP · CST · ICMS · DIFAL · IBS/CBS Business: Sales · Inventory · Finance · Tax · Production Core.Engineering: Frontend: React · TypeScript · JavaScript Backend: Node.js · Express · REST APIs Database: PostgreSQL · SQL Language: Python Infra: VPS · Docker · Git Current.Focus: > Arquitetura de sistemas e integrações > APIs REST · Webhooks · Automações > Backend com Node.js > React + TypeScript > Banco de dados e modelagem > Evolução de Analista → Full-Stack Developer Career.Target: > Analista de Sistemas Sênior > Full-Stack Developer > Arquitetura · Integrações · Automação
+Subject:      Iury Santos Lima (Lima)
+Role:         Systems Analyst · Full-Stack Developer
+Origin:       Aparecida de Goiânia, GO · Brasil
+Education:    ADS · Estácio · 2023-2026
+Status:       Building · Integrating · Evolving
+
+- ToolChain -----------------------------------
+Editor:        VS Code
+Versioning:    Git · GitHub
+Frontend:      React · Vite · TypeScript
+Backend:       Node.js · Express
+Database:      PostgreSQL · Supabase
+Cloud:         VPS · Hostinger · Netlify
+Automation:    APIs · Webhooks · OAuth 2.0
+
+- Core.Domain -----------------------------------
+ERP:           Linx Microvix · Retail Systems · Integrations
+Fiscal:        NF-e, NFC-e, CFOP, CST, ICMS, DIFAL, IBS/CBS
+Business:      Sales · Inventory · Finance · Tax · Production
+
+- Core.Engineering -------------------------------
+Frontend:      React · TypeScript · JavaScript
+Backend:       Node.js · Express · REST APIs
+Database:      PostgreSQL · SQL
+Language:      Python
+Infra:         VPS · Docker · Git
+
+- Current.Focus -----------------------------------
+> Arquitetura de sistemas e integrações
+> APIs REST · Webhooks · Automações
+> Backend com Node.js
+> React + TypeScript
+> Banco de dados e modelagem
+> Evolução de Analista -> Full-Stack Developer
+
+- Career.Target -----------------------------------
+> Analista de Sistemas Sênior
+> Full-Stack Developer
+> Arquitetura · Integrações · Automação
+
+- Contact -------------------------------------
+Grid.Mail:      iury.lima@franqueadolinx.com.br
+Grid.Github:    LimaGost
+```
 
 </td>
 </tr>
