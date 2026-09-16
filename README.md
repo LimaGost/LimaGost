@@ -1,75 +1,13 @@
 <div align="center">
 
-```
-iury@microvix ~ % ./profile.sh --live
-```
+<img src="./assets/system-panel.svg" alt="Iury Lima - system panel" width="100%" />
 
-</div>
+<br/>
 
-<table>
-<tr>
-<td width="640" valign="top">
-
-### `SYSTEM.INFO`
-
-```yaml
-Subject:      Iury Santos Lima (Lima)
-Role:         Systems Analyst · Full-Stack Developer
-Origin:       Aparecida de Goiânia, GO · Brasil
-Education:    ADS · Estácio · 2023-2026
-Status:       Building · Integrating · Evolving
-
-- ToolChain -----------------------------------
-Editor:        VS Code
-Versioning:    Git · GitHub
-Frontend:      React · Vite · TypeScript
-Backend:       Node.js · Express
-Database:      PostgreSQL · Supabase
-Cloud:         VPS · Hostinger · Netlify
-Automation:    APIs · Webhooks · OAuth 2.0
-
-- Core.Domain -----------------------------------
-ERP:           Linx Microvix · Retail Systems · Integrations
-Fiscal:        NF-e, NFC-e, CFOP, CST, ICMS, DIFAL, IBS/CBS
-Business:      Sales · Inventory · Finance · Tax · Production
-
-- Core.Engineering -------------------------------
-Frontend:      React · TypeScript · JavaScript
-Backend:       Node.js · Express · REST APIs
-Database:      PostgreSQL · SQL
-Language:      Python
-Infra:         VPS · Docker · Git
-
-- Current.Focus -----------------------------------
-> Arquitetura de sistemas e integrações
-> APIs REST · Webhooks · Automações
-> Backend com Node.js
-> React + TypeScript
-> Banco de dados e modelagem
-> Evolução de Analista -> Full-Stack Developer
-
-- Career.Target -----------------------------------
-> Analista de Sistemas Sênior
-> Full-Stack Developer
-> Arquitetura · Integrações · Automação
-
-- Contact -------------------------------------
-Grid.Mail:      iury.lima@franqueadolinx.com.br
-Grid.Github:    LimaGost
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### `LIVE.STATS`
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LimaGost&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LimaGost&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimaGost&layout=compact&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LimaGost/LimaGost/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LimaGost/LimaGost/output/snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/LimaGost/LimaGost/output/snake.svg" width="100%" />
+</picture>
 
 </div>
