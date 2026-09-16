@@ -2242,15 +2242,15 @@
     <line x1="440" y1="297.05" x2="920" y2="297.05" stroke="#1c3a42" stroke-width="1"/>
     <text x="440" y="312.05" class="lbl" fill="#6bb8c9">Core Domain</text><text x="588" y="312.05" class="dots">......................</text><text x="920" y="312.05" text-anchor="end" class="val">ERP, APIs, Integrações, Automação</text>
     <text x="440" y="336.55" class="lbl" fill="#6bb8c9">ERP Expertise</text><text x="588" y="336.55" class="dots">..................</text><text x="920" y="336.55" text-anchor="end" class="val">Microvix, NF-e/NFC-e, Tributario</text>
-    <text x="440" y="336.55" class="lbl" fill="#6bb8c9">Core Frontend</text><text x="588" y="336.55" class="dots">...........................</text><text x="920" y="336.55" text-anchor="end" class="val">React, Vite, TypeScript</text>
-    <text x="440" y="361.05" class="lbl" fill="#6bb8c9">Core Backend</text><text x="588" y="361.05" class="dots">........................</text><text x="920" y="361.05" text-anchor="end" class="val">Node.js, Express, REST APIs</text>
-    <text x="440" y="385.55" class="lbl" fill="#6bb8c9">Core Database</text><text x="588" y="385.55" class="dots">..............................</text><text x="920" y="385.55" text-anchor="end" class="val">PostgreSQL, SQL, Supabase</text>
-    <text x="440" y="410.05" class="lbl" fill="#6bb8c9">Core Infra</text><text x="588" y="410.05" class="dots">.............................</text><text x="920" y="410.05" text-anchor="end" class="val">. Docker, Linux, VPS</text>
-    <line x1="440" y1="429.35" x2="920" y2="429.35" stroke="#1c3a42" stroke-width="1"/>
-    <text x="440" y="453.35" class="section2">- Contact</text>
-    <text x="440" y="477.85" class="lbl" fill="#e88fd6">GitHub</text><text x="588" y="477.85" class="dots">.................................</text><text x="920" y="477.85" text-anchor="end" class="val">github.com/LimaGost</text>
-    <text x="440" y="502.35" class="lbl" fill="#e88fd6">LinkedIn</text><text x="588" y="502.35" class="dots">.......................</text><text x="920" y="502.35" text-anchor="end" class="val">linkedin.com/in/iury-lima-295663225/</text>
-    <line x1="440" y1="526.2" x2="920" y2="526.2" stroke="#1c3a42" stroke-width="1"/>
-    <text x="440" y="548.2" class="note">Live Stats</text>
-    <text x="440" y="567.2" class="note2">See live GitHub stats badges below in README &#8595;</text>
+    <text x="440" y="361.05" class="lbl" fill="#6bb8c9">Core Frontend</text><text x="588" y="361.05" class="dots">...........................</text><text x="920" y="361.05" text-anchor="end" class="val">React, Vite, TypeScript</text>
+    <text x="440" y="385.55" class="lbl" fill="#6bb8c9">Core Backend</text><text x="588" y="385.55" class="dots">........................</text><text x="920" y="385.55" text-anchor="end" class="val">Node.js, Express, REST APIs</text>
+    <text x="440" y="410.05" class="lbl" fill="#6bb8c9">Core Database</text><text x="588" y="410.05" class="dots">..............................</text><text x="920" y="410.05" text-anchor="end" class="val">PostgreSQL, Supabase</text>
+    <text x="440" y="434.55" class="lbl" fill="#6bb8c9">Core Infra</text><text x="588" y="434.55" class="dots">.............................</text><text x="920" y="434.55" text-anchor="end" class="val">Docker, VPS</text>
+    <line x1="440" y1="453.85" x2="920" y2="453.85" stroke="#1c3a42" stroke-width="1"/>
+    <text x="440" y="477.85" class="section2">- Contact</text>
+    <text x="440" y="502.35" class="lbl" fill="#e88fd6">Github</text><text x="588" y="502.35" class="dots">.................................</text><text x="920" y="502.35" text-anchor="end" class="val">github.com/LimaGost</text>
+    <text x="440" y="526.85" class="lbl" fill="#e88fd6">LinkedIn</text><text x="588" y="526.85" class="dots">.......................</text><text x="920" y="526.85" text-anchor="end" class="val">linkedin.com/in/SEU-USUARIO</text>
+    <line x1="440" y1="550.7" x2="920" y2="550.7" stroke="#1c3a42" stroke-width="1"/>
+    <text x="440" y="572.7" class="note">Live Stats</text>
+    <text x="440" y="591.7" class="note2">See live GitHub stats badges below in README &#8595;</text>
 </svg>
