@@ -1,4 +1,4 @@
-name: generate contribution snake
+name: generate contribution invaders
 
 on:
   schedule:
@@ -16,13 +16,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: generate snake svg (light + dark)
-        uses: Platane/snk@v3
+      - name: generate invaders svg (light + dark)
+        uses: UltimateStrength/space-invaders-contributions@v1
         with:
           github_user_name: LimaGost
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/invaders.svg
+            dist/invaders-dark.svg?palette=github-dark
 
       - name: publica no branch output
         uses: crazy-max/ghaction-github-pages@v4
